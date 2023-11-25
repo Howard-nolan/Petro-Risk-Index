@@ -4,3 +4,5 @@ geopandas
 haversine
 folium
 scikit-learn
+pyarrow
+ipywidgets
